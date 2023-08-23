@@ -1,0 +1,93 @@
+/*let a = 3;
+let b = 5;
+let c =6;
+let d = 7;
+let e = 4;
+
+console.log (a % 2);
+console.log(b % 2);
+console.log(c % 2);
+console.log(d % 2);
+console.log(e % 2);
+*/
+
+
+
+//minhaidade
+let minhaidade = 16
+minhaidade = minhaidade + 1;
+console.log ("Depois , minhaidade");
+/*
+
+/*
+
+//matematica
+let A = 3;
+let B =  4;
+let C = 3;
+let D = 5;
+let E = 2;
+let F = -1;
+console.log(C * D / 2);
+console.log (( D - B ));
+let G = 234;
+let H = 5;
+console.log(G % H);
+/*
+//numeros
+let numero = 5;
+let numero2 = 2;
+
+console.log (numero === numero2);
+console.log (numero != numero2);
+console.log(numero <= numero2);
+console.log (numero >= numero2);
+
+
+//comparadores logicos
+
+
+let A = 5;
+let B = 3;
+let C = 0;
+
+console.log(a == b ||  a !==C);
+console.log(a == b && a|== C);
+
+console.log(true || false);
+console.log(true && true);
+
+
+let a=true;
+let b=false;
+let c=true;
+
+console.log(a && b);
+console.log(b && c);
+console.log(a && b && c);
+
+console.log(a || b);
+console.log(b && c);
+console.log(a || b || c);
+console.log(a || b || c);
+
+let a = true;
+let b = false;
+
+console.log(a);
+console.log(!a);
+
+console.log(b);
+console.log(!b);
+*/
+
+
+
+let nome = "joao";
+let idade = 16
+console.log("nome:",nome);
+console.log("idade",idade);
+console.log("É maior de idade?" , true && false);
+let nascimento = 2006;
+let futuro = 2050;
+console.log("idade em 2050",futuro - nascimento); 
